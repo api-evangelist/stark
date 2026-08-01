@@ -1,0 +1,13 @@
+generated: '2026-07-21'
+method: searched
+source: https://www.getstark.co/
+note: >-
+  Stark is an accessibility compliance SaaS platform with no public developer
+  API; lifecycle signals captured here are the operational-transparency surfaces
+  the company publishes for its product (status page). No public API versioning
+  or deprecation policy is published.
+status_page: https://status.getstark.co/
+versioning: null
+deprecation: null
+sla: null
+deprecated_operations: []

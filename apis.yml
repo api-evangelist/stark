@@ -1,7 +1,16 @@
 aid: stark
 name: Stark
-description: Stark is a company surfaced as a portfolio company of uncork-capital and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Stark is a digital accessibility compliance platform used by more than 50,000
+  companies as their accessibility infrastructure across the entire software
+  product lifecycle, from issue detection and remediation to insights and
+  governance. Stark ships design-tool plug-ins for Figma, Sketch, and Adobe XD,
+  browser extensions for Chrome, Firefox, Edge, Safari, Arc, and Brave, a web
+  dashboard for project management and real-time reporting, and a Compliance
+  Center for managing accessibility posture against regulatory frameworks such
+  as WCAG, ADA, and the European Accessibility Act. Stark does not currently
+  publish a public developer API; this profile captures its identity and the
+  security, trust, and operational-transparency surfaces it publishes.
 url: https://raw.githubusercontent.com/api-evangelist/stark/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,11 +18,30 @@ x-backed-by:
 - uncork-capital
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://res.cloudinary.com/stark-lab/image/upload/v1761273066/marketing/meta/homepage_fzpkxd.png
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Accessibility
+- Compliance
+- Design Tools
+- Developer Tools
+- WCAG
+- Governance
+- SaaS
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +51,40 @@ maintainers:
 common:
 - type: Website
   url: https://www.getstark.co
+- type: Blog
+  url: https://www.getstark.co/blog/
+- type: Support
+  url: https://www.getstark.co/support/
+- type: HelpCenter
+  url: https://www.getstark.co/support/
+- type: Community
+  url: https://www.getstark.co/community/
+- type: Pricing
+  url: https://www.getstark.co/pricing/
+- type: SignUp
+  url: https://app.getstark.co/sign-in
+- type: Login
+  url: https://app.getstark.co/sign-in
+- type: TermsOfService
+  url: https://www.getstark.co/tos/
+- type: PrivacyPolicy
+  url: https://www.getstark.co/privacy/
+- type: StatusPage
+  url: https://status.getstark.co/
+- type: Lifecycle
+  url: lifecycle/stark-lifecycle.yml
+- type: Security
+  url: https://www.getstark.co/security/
+- type: VulnerabilityDisclosure
+  url: security/stark-vulnerability-disclosure.yml
+- type: TrustCenter
+  url: security/stark-trust-center.yml
+- type: Compliance
+  url: https://trust.getstark.co/
+- type: DomainSecurity
+  url: security/stark-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 4
+  pass: local-v1
