@@ -43,7 +43,7 @@ accessModel:
 image: https://res.cloudinary.com/stark-lab/image/upload/v1761273066/marketing/meta/homepage_fzpkxd.png
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-21'
+modified: '2026-10-06'
 tags:
 - Company
 - Accessibility
@@ -69,6 +69,8 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- url: https://www.getstark.co/blog-rss.xml
+  type: BlogRSS
 - type: Website
   url: https://www.getstark.co
 - type: Blog
