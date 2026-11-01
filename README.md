@@ -64,6 +64,90 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Stark is a company surfaced as a portfolio company of uncork-capital and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Stark is a digital accessibility compliance platform used by more than 50,000 companies as their accessibility infrastructure across the entire software product lifecycle, from issue detection and remediation to insights and governance. Stark ships design-tool plug-ins for Figma, Sketch, and Adobe XD, browser extensions for Chrome, Firefox, Edge, Safari, Arc, and Brave, a web dashboard for project management and real-time reporting, and a Compliance Center for managing accessibility posture against regulatory frameworks such as WCAG, ADA, and the European Accessibility Act. Stark does not currently publish a public developer API; this profile captures its identity and the security, trust, and operational-transparency surfaces it publishes.
 
-Backed by: uncork-capital — https://www.getstark.co
+**Areas:** Company · Accessibility · Compliance · Design Tools · Developer Tools · WCAG · Governance · Software-as-a-Service
+
+## Stark on APIs.io
+
+Everything profiled for Stark is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/stark/](https://apis.io/providers/stark/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Stark Domain Security](https://apis.io/security/stark/stark-domain-security/)
+- [Stark Trust Center](https://apis.io/security/stark/stark-trust-center/)
+- [Stark Vulnerability Disclosure](https://apis.io/security/stark/stark-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.getstark.co)
+- [Pricing](https://www.getstark.co/pricing/)
+- [Sign up](https://app.getstark.co/sign-in)
+- [Support](https://www.getstark.co/support/)
+- [Blog](https://www.getstark.co/blog/)
+- [Security](https://www.getstark.co/security/)
+- [Compliance](https://trust.getstark.co/)
+- [Terms of service](https://www.getstark.co/tos/)
+- [Privacy policy](https://www.getstark.co/privacy/)
+- [Status](https://status.getstark.co/)
+
+## API Evangelist rating
+
+**Kin Score 20.8** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 18.4 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 53.9 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/stark/](https://apis.io/providers/stark/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Stark: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/stark/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
